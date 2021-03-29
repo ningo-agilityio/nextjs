@@ -1,0 +1,18 @@
+.mainHeader {
+  background-color: brown;
+  color: #fff;
+  padding: 10px;
+}
+
+.mainHeader ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.mainHeader ul li {
+  margin-right: 10px;
+}
+
+.mainHeader ul li:hover {
+  text-decoration: underline;
+}
